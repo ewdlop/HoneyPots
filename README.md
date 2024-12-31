@@ -6,6 +6,8 @@ Get to thank them for reporting me exposing api and connection strings on public
 
 Okay so these hackers has this tendies to not able to figure out things out themselves so they rely on people build projects for them(whether if the projects are related to anything(jobs, school project, or for anyone) you do in the past. They be like: how the hell are they suppose to know? They love to do this and they said they were helping me not expose the secret. They said they just pick up liters on the street. 
 
+Oh I see they are trying to say I was incompetence and they were tried to get rid of a trash for society.
+
 ## Authentication & API Keys
 
 - Exposed AWS access key and secret
