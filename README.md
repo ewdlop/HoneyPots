@@ -133,3 +133,37 @@ Get to thank them for reporting me exposing api and connection strings on public
 - VPN access credentials
 - Identity provider tokens
 - Security scanner API keys
+
+## Examples
+
+To demonstrate the usage of various keys and credentials listed above, we have provided code examples in the `examples` directory. Below are the links to the example files:
+
+- [AWS Example](examples/aws_example.py)
+- [GitHub Example](examples/github_example.py)
+- [Firebase Example](examples/firebase_example.py)
+- [Stripe Example](examples/stripe_example.py)
+
+## Running the Examples
+
+To run the code examples, follow the instructions below:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/ewdlop/HoneyPots.git
+   cd HoneyPots
+   ```
+
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Update the example files with your own keys and credentials.
+
+4. Run the example scripts:
+   ```
+   python examples/aws_example.py
+   python examples/github_example.py
+   python examples/firebase_example.py
+   python examples/stripe_example.py
+   ```
